@@ -29,6 +29,7 @@
 <img width="195" alt="image" src="https://user-images.githubusercontent.com/80818640/198749621-f1a05fb3-32ce-4262-bdac-165e6906e1ca.png">
 
 4. **맵 제작중**
+![image](https://user-images.githubusercontent.com/80818640/198869405-e13dedf9-5169-48e6-821e-877a5a8094a6.png)
 
 ## 남은 작업
 - 맵 완성
