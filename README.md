@@ -1,5 +1,4 @@
 # 2022_SoftwareExhibitionAR
-## 2차 중간 보고
 ### 진행 상황
 ---
 1. **기획 구체화**
@@ -31,6 +30,6 @@
 4. **맵 제작중**
 ![image](https://user-images.githubusercontent.com/80818640/198869405-e13dedf9-5169-48e6-821e-877a5a8094a6.png)
 
-## 남은 작업
-- 맵 완성
-- 기능 구현
+## 판넬
+![image](https://user-images.githubusercontent.com/84373005/202176467-464aa566-a363-4e53-8553-4a22ff90daa1.png)
+
