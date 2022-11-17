@@ -31,5 +31,5 @@
 ![image](https://user-images.githubusercontent.com/80818640/198869405-e13dedf9-5169-48e6-821e-877a5a8094a6.png)
 
 ## 판넬
-![image](https://user-images.githubusercontent.com/84373005/202176467-464aa566-a363-4e53-8553-4a22ff90daa1.png)
+![image](https://user-images.githubusercontent.com/84373005/202396739-9afd5b07-561d-4ab8-8c00-69df84256efc.png)
 
